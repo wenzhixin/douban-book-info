@@ -1,0 +1,17 @@
+{
+	"name": "买书豆瓣速查",
+	"description": "在买书的时候自动生成豆瓣读书的链接，可供快速查看图书的评分等相关信息",
+	"version": "1.0.1",
+	"manifest_version": 2,
+	"update_url": "http://clients2.google.com/service/update2/crx",
+	"icons": {
+		"128": "logo.png"
+	},
+	"content_scripts": [
+		{
+			"matches": ["http://*/*", "https://*/*"],
+			"css": ["css/index.css"],
+			"js": ["js/jquery.min.js", "js/index.js"]
+		}
+	]
+}
