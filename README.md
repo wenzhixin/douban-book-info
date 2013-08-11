@@ -25,4 +25,4 @@ ___
 
 邮箱：wenzhixin2010@gmail.com
 
-安装：[微博相互关注](https://chrome.google.com/webstore/detail/%E4%B9%B0%E4%B9%A6%E8%B1%86%E7%93%A3%E9%80%9F%E6%9F%A5/epolamlfkepolmggcndpendancheikim)
+安装：[买书豆瓣速查](https://chrome.google.com/webstore/detail/%E4%B9%B0%E4%B9%A6%E8%B1%86%E7%93%A3%E9%80%9F%E6%9F%A5/epolamlfkepolmggcndpendancheikim)
